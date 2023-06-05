@@ -1,0 +1,23 @@
+name: torch-xray
+dependencies:
+    - python==3.6.8
+    - pytorch
+    - torchvision
+    - scikit-image
+    - tqdm
+    - numpy
+    - pandas
+    - requests
+    - jupyter
+    - pydicom
+    - ordereddict
+    - argparse
+    - matplotlib
+    - pyflakes
+    - Flask
+    - Flask-Cors
+    - pyflakes
+    - flask
+    - flask-restful
+    - scipy
+

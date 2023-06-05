@@ -1,0 +1,23 @@
+name: torch-xray-serving
+dependencies:
+    - python
+    - pytorch
+    - torchvision
+    - scikit-image
+    - tqdm
+    - numpy
+    - pandas
+    - requests
+    - jupyter
+    - matplotlib
+    - pyflakes
+    - Flask
+    - flask
+    - Flask-Cors
+    - pyflakes
+    - flask
+    - scipy
+    - opencv
+    - pip
+    - grpcio
+    - grpcio-tools

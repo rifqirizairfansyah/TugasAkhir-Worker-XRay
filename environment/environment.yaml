@@ -1,0 +1,7 @@
+name: stats
+dependencies:
+  - numpy
+  - pandas
+  - jupyter
+  - python
+  - scipy
